@@ -1,4 +1,4 @@
-## An example transfer learning approach to analyze cough audio data using transfer learning
+## An example transfer learning approach to cough audio data classification using transfer learning
 
 This example is the part of the below work. Please cite you find it useful:
 
