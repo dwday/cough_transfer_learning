@@ -4,6 +4,16 @@ This example is the part of the below work. Please cite you find it useful:
 
 [Akgun, D., et al. "A transfer learning-based deep learning approach for automated COVID-19diagnosis with audio data." Turkish Journal of Electrical Engineering and Computer Sciences 29.8 (2021): 2807-2823](https://journals.tubitak.gov.tr/elektrik/vol29/iss8/15/)
 
+@article{akgun2021transfer,
+  title={A transfer learning-based deep learning approach for automated COVID-19diagnosis with audio data},
+  author={AKG{\"U}N, DEVR{\.I}M and KABAKU{\c{S}}, ABDULLAH TALHA and {\c{S}}ENT{\"U}RK, ZEHRA KARAPINAR and {\c{S}}ENT{\"U}RK, ARAFAT and K{\"U}{\c{C}}{\"U}KK{\"U}LAHLI, ENVER},
+  journal={Turkish Journal of Electrical Engineering and Computer Sciences},
+  volume={29},
+  number={8},
+  pages={2807--2823},
+  year={2021}
+}
+
 ## Converting audio data to image using Melspectogram:
 
 ![alt text](images/audio_to_image.jpg)
