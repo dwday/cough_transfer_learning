@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
-Transdferlearning models
-
+Transfer learning based models
 """
 from tensorflow.keras.applications import MobileNet
 from tensorflow.keras import layers,Model,losses
