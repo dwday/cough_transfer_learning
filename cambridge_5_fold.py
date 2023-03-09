@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan 13 20:58:28 2021
 
-* data augmentation dene: zca lightning, shift, zoom
-
+>>> Kindly, cite this work if you find it useful
+@article{akgun2021transfer, title={A transfer learning-based deep learning approach for automated COVID-19diagnosis with audio data}, 
+author={AKG{"U}N, DEVR{.I}M and KABAKU{\c{S}}, ABDULLAH TALHA and {\c{S}}ENT{"U}RK, ZEHRA KARAPINAR and {\c{S}}ENT{"U}RK, ARAFAT and K{"U}{\c{C}}{"U}KK{"U}LAHLI, ENVER}, 
+journal={Turkish Journal of Electrical Engineering and Computer Sciences}, volume={29}, number={8}, pages={2807--2823}, year={2021} }
 
 """
 import numpy as np 
