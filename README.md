@@ -1,6 +1,6 @@
 ## An example transfer learning approach to cough audio data classification using transfer learning
 
-This example is the part of the below work. Please cite you find it useful:
+This example is the part of the below work. Please cite you if find it useful:
 
 [Akgun, D., et al. "A transfer learning-based deep learning approach for automated COVID-19diagnosis with audio data." Turkish Journal of Electrical Engineering and Computer Sciences 29.8 (2021): 2807-2823](https://journals.tubitak.gov.tr/elektrik/vol29/iss8/15/)
 
